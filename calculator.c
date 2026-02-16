@@ -35,3 +35,4 @@ int main() {
     printf("Resultaat: %.2f\n", result);
     return 0;
 }
+//Tom was hier 0_0
