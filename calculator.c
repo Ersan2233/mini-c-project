@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main() {
@@ -35,3 +36,5 @@ int main() {
     printf("Resultaat: %.2f\n", result);
     return 0;
 }
+
+//Ensar isci was here xD
