@@ -34,6 +34,10 @@ int main() {
     }
 
     printf("Resultaat: %.2f\n", result);
+
+    // Kleine aanpassing toegevoegd door Ersan
+    printf("Bedankt voor het gebruiken van deze calculator! - Ersan\n");
+
     return 0;
 }
 
